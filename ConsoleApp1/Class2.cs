@@ -36,6 +36,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("This is Test Branch Class");
         }
+        public void Method6()
+
+        {
+            Console.WriteLine("This is Test Branch Class");
+        }
 
     }
 }
